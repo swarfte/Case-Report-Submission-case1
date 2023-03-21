@@ -6,7 +6,7 @@
 
 ## auther : Benjamin Chau
 
-## introducts
+## Developing Products on Internet Time
 
 The rise of the World Wide Web has provided one of the most challenging environments for product development in recent history. The market needs that a product is meant to satisfy and the technologies required to satisfy them can change radically—even as the product is under development. In response to such factors, companies have had to modify the traditional product-development process in which design implementation begins only once a product’s concept has been determined in its entirety. Instead, they have pioneered a flexible product-development process that allows designers to continue to define and shape products even after implementation has begun. This innovation enables Internet companies to incorporate rapidly changing customer requirements and evolving technologies into their designs until the last possible moment before a product is introduced to the market.
 
