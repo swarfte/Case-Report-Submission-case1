@@ -1,4 +1,4 @@
-# SOFTWARE ENGINEERING - COMP223-221 
+# SOFTWARE ENGINEERING - COMP223-221
 
 ## Case Report Submission (Section A) - case (1) summary version
 
@@ -30,8 +30,7 @@ In contrast, flexible product development delays until as late as possible any c
 
 ## Two Approaches to Product Development
 
-![image]()
-
+![image](https://github.com/swarfte/Case-Report-Submission-case1/blob/main/Two%20Approaches%20to%20Product%20Development.gif)
 
 Speed is a subtle concept in this model. Total lead time—the time taken to fulfill the initial objectives of the project—is ...
 
@@ -42,9 +41,10 @@ When technology, product features, and competitive conditions are predictable or
 > 在動盪的商業環境中，產品開發的順序過程不僅效率低下，還可能導致產品過時，無法滿足客戶需求並利用最新技術。當新競爭對手和技術可能一夜之間出現，標準和法規不斷變化，以及公司的整個客戶群可以輕易轉向其他供應商時，企業不需要一個抵制變革的開發過程，而需要一個擁抱變革的過程。
 
 ## A Flexible Process at Work
+
 Not every company interested in developing a flexible product-development process would have to go to the extremes that Netscape did. But by looking at Netscape’s experiences, we can see how a highly flexible process works. Founded in 1994, the company pioneered the easy-to-use Web browser: a software interface that provides access to the World Wide Web. The Web browser has transformed the Internet from a communications channel for scientists and technicians into a network connecting millions of ordinary users across time and space—and thus into an industry in its own right.
 
-> 講述了Netscape如何通過靈活的產品開發過程來應對快速變化的市場需求和競爭。Netscape在開發其網頁瀏覽器Navigator時，面臨著技術複雜性和不確定性的挑戰。通過多次發布Beta版本並從用戶那裡獲取反饋，Netscape能夠在產品開發過程中不斷調整和改進。與此同時，微軟作為競爭對手，也在開發自己的網頁瀏覽器Internet Explorer，並在短時間內迎頭趕上。微軟的產品開發過程同樣靈活，主要依賴於內部測試和有限的外部Beta版本發布。
+> 講述了 Netscape 如何通過靈活的產品開發過程來應對快速變化的市場需求和競爭。Netscape 在開發其網頁瀏覽器 Navigator 時，面臨著技術複雜性和不確定性的挑戰。通過多次發布 Beta 版本並從用戶那裡獲取反饋，Netscape 能夠在產品開發過程中不斷調整和改進。與此同時，微軟作為競爭對手，也在開發自己的網頁瀏覽器 Internet Explorer，並在短時間內迎頭趕上。微軟的產品開發過程同樣靈活，主要依賴於內部測試和有限的外部 Beta 版本發布。
 
 But Netscape faced no easy task in developing its Web browser, Navigator. In the rapidly evolving Internet industry, many alternative technologies and applications compete for attention, and product development is a project manager’s nightmare. The major challenge in the development of a Web browser is the level of technical complexity involved: a typical program rivals a traditional word processing or spreadsheet application in size, and it must work seamlessly with myriad different hardware and software platforms. The level of uncertainty is so high that even the most basic decisions about a product must be continually revised as new information arises. And the fact that industry giant Microsoft, which had already developed its own flexible product-development process, was readying a product to compete with Navigator only added to the complexity and urgency of Netscape’s development effort.
 
@@ -56,7 +56,7 @@ Netscape introduced Navigator 2.0 to the market in January of 1996 and immediate
 
 ## The Development of Navigator 3.0: A Timeline
 
-![image]()
+![image](https://github.com/swarfte/Case-Report-Submission-case1/blob/main/The%20Development%20of%20Navigator%203.0%20A%20Timeline.gif)
 
 The sequence of beta versions was extremely useful to Netscape because it enabled the development team to react both to feedback from users and to changes in the marketplace while the team was still working on the Web browser’s design. Beta users by and large are more sophisticated than Netscape’s broader customer base and therefore are a valuable source of information. Most useful among them are developers from other Internet software companies, who tend to be extremely vocal customers. Because many of these customers use the Navigator browser as part of the environment in which their own products operate, they are often the first to find the more complicated bugs—bugs that are revealed only when the product is stretched to the limits of its performance in complex applications.
 
@@ -76,13 +76,14 @@ To facilitate the integration of the vast amounts of information generated durin
 
 Netscape built into its product-development process considerable flexibility to respond to changes in market demands and technology. And what is already true of companies in the Internet industry is becoming true of companies elsewhere. Our research on the computer-workstation-and-server industry has shown that there, too, a more flexible process is associated with greater performance. In this environment, companies with a faster response time, as measured from the construction of the first physical prototype to commercial shipping, clearly outperform those with slower response times. The use of sophisticated simulation tools allows teams to work with a virtual prototype for much of the project—in effect, creating a significant overlap between the concept and the design implementation phases.
 
-> 描述了Netscape如何在其產品開發過程中加入了很大的靈活性，以應對市場需求和技術的變化。在互聯網行業中，這種靈活性已經變得越來越重要。研究顯示，在計算機工作站和服務器行業，靈活的開發過程與更高的性能相關。在這種環境下，反應時間更快的公司（從構建第一個實物原型到商業運輸）明顯優於反應時間較慢的公司。使用先進的模擬工具可以讓團隊在項目的大部分過程中使用虛擬原型，實際上在概念和設計實施階段之間創建了顯著的重疊。
+> 描述了 Netscape 如何在其產品開發過程中加入了很大的靈活性，以應對市場需求和技術的變化。在互聯網行業中，這種靈活性已經變得越來越重要。研究顯示，在計算機工作站和服務器行業，靈活的開發過程與更高的性能相關。在這種環境下，反應時間更快的公司（從構建第一個實物原型到商業運輸）明顯優於反應時間較慢的公司。使用先進的模擬工具可以讓團隊在項目的大部分過程中使用虛擬原型，實際上在概念和設計實施階段之間創建了顯著的重疊。
 
 According to Allen Ward and his colleagues in “The Second Toyota Paradox: How Delaying Decisions Can Make Better Cars Faster” (Sloan Management Review, Spring 1995), there also is evidence that a more flexible model has emerged in the automotive industry. Toyota’s development process allows it to delay many design decisions until later in the development cycle. The development team creates several sets of design options and, finally, through a process of elimination, selects only one for implementation. As a result, Toyota can respond to changing market conditions at a later stage than many of its competitors.
 
-> 根據 Allen Ward 及其同事在《第二個豐田悖論：如何通過延遲決策製造更好的汽車更快》（Sloan Management Review，1995年春季）中的研究，汽車行業也出現了更靈活的模型。豐田的開發過程允許在開發周期的後期延遲許多設計決策。開發團隊創建了幾套設計選項，最後通過消除過程，僅選擇一個用於實施。因此，豐田可以在比許多競爭對手更晚的階段應對市場變化。
+> 根據 Allen Ward 及其同事在《第二個豐田悖論：如何通過延遲決策製造更好的汽車更快》（Sloan Management Review，1995 年春季）中的研究，汽車行業也出現了更靈活的模型。豐田的開發過程允許在開發周期的後期延遲許多設計決策。開發團隊創建了幾套設計選項，最後通過消除過程，僅選擇一個用於實施。因此，豐田可以在比許多競爭對手更晚的階段應對市場變化。
 
 ## The Foundations of a Flexible Process
+
 How should companies create a flexible development process? The experiences of leading companies suggest that senior managers first must understand what gives the process its flexibility. Product development flexibility is rooted in the ability to manage jointly the evolution of a product and its application context. The goal is to capture a rich understanding of customer needs and alternative technical solutions as a project progresses, then to integrate that knowledge into the evolving product design. The faster a project can integrate that information, the faster that project can respond to changes in the product’s environment.
 
 > 闡述了如何建立靈活的產品開發流程。首先，高級管理者需要了解使流程具有靈活性的因素。產品開發的靈活性源於共同管理產品及其應用場景的演變能力。目標是在項目進行過程中獲得對客戶需求和技術解決方案的豐富理解，然後將這些知識整合到不斷演變的產品設計中。項目能夠更快地整合這些信息，就能更快地應對產品環境的變化。
@@ -93,13 +94,14 @@ The value of flexible product development, however, is only as good as the quali
 
 ## The Structure of a Flexible Product-Development Process
 
-![image]()
+![image](https://github.com/swarfte/Case-Report-Submission-case1/blob/main/The%20Structure%20of%20a%20Flexible%20Product-Development%20Process.gif)
 
 As we describe how leading companies have achieved a more flexible development process, many of the examples we cite come from our work with several software companies that have recently launched Internet products or services. But bear in mind that this is not the only industry in which these lessons apply. We also describe specific practices from other, more traditional industries to illustrate that the approaches used are not unique to the Internet. In fact, they represent cutting-edge practice across a range of environments where change is—or is becoming—the norm.
 
 > 描述了在靈活產品開發過程中，作者引用了許多來自與互聯網產品或服務相關的軟件公司的實例。然而，這並不是唯一適用這些經驗教訓的行業。作者還舉了來自其他更傳統行業的具體做法，以說明這些方法並非僅限於互聯網行業。實際上，它們代表了在各種變化是或正在成為常態的環境中的尖端實踐。
 
 ## Sensing the Market.
+
 The first element of a flexible process is sensing the needs of customers and the market. Flexible projects establish mechanisms for getting continual feedback from the market on how the evolving design meets customers’ requirements. They do so by creating intensive links with the customer base—links that range from broad experimentation with many customers to selective experiences with a few lead users. Furthermore, these customers do not have to be external to the company: leading companies make extensive use of internal staff and resources to provide a test bed for evolving new products.
 
 > 靈活開發過程的第一個要素是感知客戶和市場的需求。靈活的項目建立了從市場獲得持續反饋的機制，以了解不斷演變的設計如何滿足客戶需求。他們通過與客戶群建立密切聯繫來實現這一目標，這些聯繫可以從與眾多客戶進行廣泛的實驗到與少數領先用戶進行精選體驗。此外，這些客戶不一定要來自公司外部：領先公司大量利用內部員工和資源，為不斷演變的新產品提供測試平台。
@@ -110,7 +112,7 @@ Gaining continual feedback from customers was particularly critical at Netscape 
 
 Microsoft, Netscape’s chief rival, was slow to recognize the opportunities offered by the World Wide Web. Not until the end of 1995 did the company begin to focus on developing Internet products. Yet when Bill Gates and the rest of the senior management team finally acknowledged the need for a strategic shift, Microsoft’s development expertise was unleashed with astonishing speed. In the six months from the end of 1995 to the middle of 1996, the company went from having no presence in the critical browser market to offering a product that several industry experts claimed was comparable to or better than Netscape’s Navigator.
 
-> 描述了微軟在最初未能快速認識到世界網絡的機會，直到1995年底才開始專注於開發互聯網產品。然而，當比爾·蓋茨和其他高層管理團隊最終承認需要進行戰略轉變時，微軟的開發專業知識以驚人的速度得到了釋放。從1995年底到1996年中，該公司在關鍵的瀏覽器市場上從無到有，提供了一款幾位行業專家聲稱與Netscape的Navigator相當或更好的產品。
+> 描述了微軟在最初未能快速認識到世界網絡的機會，直到 1995 年底才開始專注於開發互聯網產品。然而，當比爾·蓋茨和其他高層管理團隊最終承認需要進行戰略轉變時，微軟的開發專業知識以驚人的速度得到了釋放。從 1995 年底到 1996 年中，該公司在關鍵的瀏覽器市場上從無到有，提供了一款幾位行業專家聲稱與 Netscape 的 Navigator 相當或更好的產品。
 
 Microsoft was able to react quickly because its existing product-development process had been founded on the rapid iteration of prototypes, early beta releases, and a flexible approach to product architecture and specification. (For a detailed account of Microsoft’s development process, see Michael A. Cusumano and Richard W. Selby, Microsoft Secrets [Free Press, 1995].) The process that Microsoft followed in developing its Internet Explorer was similar to Netscape’s but was more internally oriented. With more than 18,000 employees to Netscape’s 1,000 at the time, Microsoft could test successive Explorer beta versions extensively just by putting them up on its own intranet. “Everyone around Microsoft is encouraged to play with it,” explained a Microsoft program manager. “Internal testing means that we release it to thousands of people who really hammer away at it. We use the product much more heavily than the average Web user.” Microsoft combined broad internal testing by employees with carefully staged external beta releases, using only two or three in contrast to Netscape’s six or seven. The company thus limited the risk that imperfections in early releases might damage its reputation.
 
@@ -141,6 +143,7 @@ General Motors’ Electro-Motive division has adopted a similar philosophy in it
 > 通用汽車的 Electro-Motive 部門在其新的虛擬產品開發過程中採用了類似的理念。該過程允許工程師在開發過程中向客戶展示下一代機車的數字化導覽。儘管 GM 系統仍在不斷演變，但目標是轉向全數字化環境，使產品在概念設計、分析、原型製作和製造過程中以電子方式移動，並在此過程中多次在客戶的桌面上獲得反饋。
 
 ## Testing Technical Solutions.
+
 Sensing customer and market needs as a project progresses is one element of a flexible development process. If companies are going to allow a product’s design to evolve well into the design implementation phase, however, they also must adopt mechanisms that lower the cost of changes, speed their implementation, and test their impact on the overall system. Such mechanisms allow companies to evaluate and test alternative technical solutions at a rapid rate: the second element of a flexible development process.
 
 > 靈活開發過程的一個要素是在項目進行過程中感知客戶和市場需求。然而，如果公司要允許產品設計在設計實施階段深入發展，他們還必須採用降低變更成本、加快實施速度並測試對整個系統影響的機制。這些機制使公司能夠快速評估和測試替代技術方案：靈活開發過程的第二個要素。
@@ -159,9 +162,10 @@ As a project progresses, the design team must have the capacity to evaluate and 
 
 To reduce the cost of testing alternative design choices, companies outside the software industry increasingly have invested in new technologies for virtual design. By designing and testing product designs through simulation, for example, companies achieve the flexibility to respond to new information and to resolve uncertainties by quickly exploring alternatives. Computer-aided design software also has dramatically reduced the cost of design changes, while at the same time speeding up experimentation. At Boeing, for example, the all-digital development of the 777 aircraft made use of a computer-generated “human” who would climb inside the three-dimensional design on-screen to show how difficult maintenance access would be for a live mechanic. Such computer modeling allowed engineers to spot design errors—say, a navigation light that would have been difficult to service—that otherwise would have remained undiscovered until a person negotiated a physical prototype. By avoiding the time and cost associated with building physical prototypes at several stages, Boeing’s development process has acquired the flexibility to evaluate a wider range of design options than was previously possible.
 
-> 為了降低測試替代設計選擇的成本，非軟件行業的公司越來越多地投資於虛擬設計的新技術。例如，通過模擬設計和測試產品設計，公司可以靈活地應對新信息並通過快速探索替代方案來解決不確定性。計算機輔助設計軟件也大大降低了設計變更的成本，同時加快了實驗速度。例如，在波音公司，777型飛機的全數字化開發利用了一個計算機生成的“人”，他會在屏幕上的三維設計中爬行，以顯示對於真實機械師來說，維護訪問有多困難。這種計算機建模使工程師能夠發現設計錯誤，例如，一個難以維修的導航燈，否則在人們操作實體原型之前，這些錯誤將一直無法被發現。通過避免在幾個階段建立實體原型所需的時間和成本，波音的開發過程獲得了評估比以前可能更廣泛的設計選擇的靈活性。
+> 為了降低測試替代設計選擇的成本，非軟件行業的公司越來越多地投資於虛擬設計的新技術。例如，通過模擬設計和測試產品設計，公司可以靈活地應對新信息並通過快速探索替代方案來解決不確定性。計算機輔助設計軟件也大大降低了設計變更的成本，同時加快了實驗速度。例如，在波音公司，777 型飛機的全數字化開發利用了一個計算機生成的“人”，他會在屏幕上的三維設計中爬行，以顯示對於真實機械師來說，維護訪問有多困難。這種計算機建模使工程師能夠發現設計錯誤，例如，一個難以維修的導航燈，否則在人們操作實體原型之前，這些錯誤將一直無法被發現。通過避免在幾個階段建立實體原型所需的時間和成本，波音的開發過程獲得了評估比以前可能更廣泛的設計選擇的靈活性。
 
 ## Integrating Customer Needs with Technical Solutions.
+
 It’s no good knowing what customers want in a product under development if the development team can’t integrate that information with the available technical solutions. As a result, all the organizations we discuss have established dynamic integration mechanisms. Some of them are based on well-understood concepts, such as using dedicated teams—an approach adopted by Netscape, NetDynamics, and Microsoft. Others are less traditional. All three companies, for example, use their intranets to integrate tasks, synchronize design changes, and capture customer information as projects evolve. Thus project teams are able to keep track of the evolving relationships among tasks, schedules, and design changes in a dynamic way. Such integrating mechanisms are essential for managing a flexible process, given the many rounds of experimentation and the wide range of information generated. Without a way of capturing and integrating knowledge, the development process can quickly dissolve into chaos, with ad hoc design changes creating masses of rework because of unanticipated interactions with other components in the system.
 
 > 強調了開發團隊需要將客戶需求與可用技術方案相結合的重要性。因此，我們討論的所有組織都建立了動態集成機制。有些基於眾所周知的概念，例如使用專門團隊，這是 Netscape、NetDynamics 和 Microsoft 採用的方法。其他方法則不太傳統。例如，這三家公司都使用內部網絡來集成任務、同步設計變更並在項目演變過程中捕獲客戶信息。因此，項目團隊能夠以動態方式跟踪任務、計劃和設計變更之間演變的關係。這種集成機制對於管理靈活過程至關重要，因為實驗的多輪次和產生的信息範圍很廣。如果沒有捕獲和集成知識的方法，開發過程很容易陷入混亂，臨時設計變更會因與系統中其他組件的未預期交互而產生大量的返工。
@@ -183,15 +187,16 @@ Integrating within the company, however, is not always sufficient. In some cases
 > 講述了在某些情況下，僅僅在公司內部整合知識是不夠的，有時需要跨組織網絡整合知識。對於互聯網軟件公司來說，由於其產品的新穎性、複雜性以及快速的開發週期，單個組織無法獨立完成研究、製造和銷售產品。因此，他們利用超出單個公司範疇的技術可能性，將這些技術整合到自己的核心產品中（例如 Java 小程序和網絡瀏覽器插件）。然而，這意味著在技術無縫整合到產品的同時，組織也必須適應不斷變化的參與者。我們描述的這些公司與第三方開發商建立了聯盟，參與聯合開發項目，並努力促進開放的產品架構和模塊化設計。這種安排並不僅限於軟件。例如 Sun、惠普和 Silicon Graphics 等工作站製造商經常與其他硬件公司（如西門子、英特爾、富士通、東芝和日本電氣）進行聯合開發，以提高他們系統的性能。
 
 ## Putting Flexibility to the Test
+
 In combination, the foundations of a flexible product-development process allow a company to respond to changes in markets and technologies during the development cycle. We found a striking example of how that is done in a setting that is about as far from the typical high-tech world as one can get: the America’s Cup. In 1995, a small team from New Zealand dominated the races from start to finish. Team New Zealand’s effort shows how the mechanisms we have described can be combined to dramatic effect in a flexible process.
 
-> 作者提到了靈活的產品開發過程的基礎可以讓公司在開發周期中應對市場和技術的變化。他們舉了一個引人注目的例子，即在遠離典型高科技世界的美洲杯比賽中，1995年一個來自新西蘭的小團隊從頭到尾主導了比賽。新西蘭隊的努力展示了我們描述的機制如何在靈活過程中結合起來產生戲劇性的效果。
+> 作者提到了靈活的產品開發過程的基礎可以讓公司在開發周期中應對市場和技術的變化。他們舉了一個引人注目的例子，即在遠離典型高科技世界的美洲杯比賽中，1995 年一個來自新西蘭的小團隊從頭到尾主導了比賽。新西蘭隊的努力展示了我們描述的機制如何在靈活過程中結合起來產生戲劇性的效果。
 
 ## A flexible approach allows companies to respond to changes in markets and technologies during the development cycle.
 
 Team New Zealand recruited Doug Peterson, who had been on the winning America’s Cup team in 1992, as its lead designer. It also recruited an experienced simulation team to make use of advanced design software. Although Peterson’s extensive experience drove the initial concept design, once the team’s yachts were constructed the emphasis shifted to evaluating design changes through thousands of computer-simulated design iterations. The simulations were run on a small network of workstations located a few feet from the dock. To ensure rapid feedback on the performance of design changes, the team built two boats. Each day, one of them was fitted with a design change for evaluation; then the two boats raced each other to gauge the impact of the change.
 
-> 描述了新西蘭隊在美洲杯比賽中的成功。他們聘請了曾在1992年美洲杯獲勝團隊中擔任主設計師的Doug Peterson，並組建了一個經驗豐富的模擬團隊來使用先進的設計軟件。儘管Peterson的豐富經驗推動了初始概念設計，但在團隊的遊艇建造完成後，重點轉向通過數千次計算機模擬設計迭代來評估設計變更。這些模擬在距碼頭幾英尺的工作站小網絡上運行。為了確保對設計變更性能的快速反饋，團隊建造了兩艘船。每天，其中一艘船會安裝一個用於評估的設計變更；然後兩艘船相互競賽，以衡量變更的影響。
+> 描述了新西蘭隊在美洲杯比賽中的成功。他們聘請了曾在 1992 年美洲杯獲勝團隊中擔任主設計師的 Doug Peterson，並組建了一個經驗豐富的模擬團隊來使用先進的設計軟件。儘管 Peterson 的豐富經驗推動了初始概念設計，但在團隊的遊艇建造完成後，重點轉向通過數千次計算機模擬設計迭代來評估設計變更。這些模擬在距碼頭幾英尺的工作站小網絡上運行。為了確保對設計變更性能的快速反饋，團隊建造了兩艘船。每天，其中一艘船會安裝一個用於評估的設計變更；然後兩艘船相互競賽，以衡量變更的影響。
 
 Team New Zealand’s flexible process sensed “market needs” through the two-boat testing program, which generated feedback each day on how the evolving design fit the racing environment. It tested alternative designs through a simulation program that was directed by one of the world’s most experienced yacht designers. And it integrated knowledge by making the resulting information available locally. The crew, design team, and management were therefore able to make suggestions for the design, to see the impact of potential changes, and to know what to expect when those changes were tested on the water.
 
@@ -203,7 +208,7 @@ The U.S. boat that Team New Zealand faced in the final race had been designed on
 
 Team New Zealand’s approach had better mechanisms than its U.S. rival for sensing, testing, and integrating what it had learned. Its flexible process produced a yacht of superior design, which many observers believed to be a full generation ahead of its competitors’ boats. As Paul Cayard, skipper of Team New Zealand’s opponent in the final race, remarked, “I’ve been in some uphill battles in my life. But I’ve never been in a race where I felt I had so little control over the outcome. It’s the largest discrepancy in boat speed I’ve ever seen.”
 
-> 新西蘭隊的方法在感知、測試和整合所學到的知識方面比美國對手更具優勢。其靈活的過程產生了一艘設計卓越的遊艇，許多觀察家認為它比競爭對手的船只領先了一個世代。正如新西蘭隊在決賽中的對手Paul Cayard所說：“我一生中經歷過一些艱苦的戰鬥。但我從未參加過一場比賽，覺得自己對結果如此無法控制。這是我見過的船速差距最大的一次。”
+> 新西蘭隊的方法在感知、測試和整合所學到的知識方面比美國對手更具優勢。其靈活的過程產生了一艘設計卓越的遊艇，許多觀察家認為它比競爭對手的船只領先了一個世代。正如新西蘭隊在決賽中的對手 Paul Cayard 所說：“我一生中經歷過一些艱苦的戰鬥。但我從未參加過一場比賽，覺得自己對結果如此無法控制。這是我見過的船速差距最大的一次。”
 
 ## Using a flexible development process, Team New Zealand produced a superior yacht—and beat its U.S. opponent.
 
