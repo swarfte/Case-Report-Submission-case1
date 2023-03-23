@@ -46,7 +46,7 @@ Today a rigid, sequential development approach can risk creating an obsolete pro
 
 When technology, product features, and competitive conditions are predictable or evolve slowly, a traditional development process works well. But in turbulent business environments, a sequential approach to product development is more than inefficient; it risks creating an obsolete product—one that fails to address customer needs and to make use of the latest technologies. When new competitors and technologies are likely to appear overnight, when standards and regulations are in flux, and when a company’s entire customer base can easily switch to other suppliers, businesses don’t need a development process that resists change—they need one that embraces it.
 
-> 在動盪的商業環境中，產品開發的順序過程不僅效率低下，還可能導致產品過時，無法滿足客戶需求並利用最新技術。當新競爭對手和技術可能一夜之間出現，標準和法規不斷變化，以及公司的整個客戶群可以輕易轉向其他供應商時，企業不需要一個抵制變革的開發過程，而需要一個擁抱變革的過程。
+> 在技术、产品特性和竞争条件可预测或缓慢演变的情况下，传统的开发过程很有效。但在动荡的商业环境中，顺序式的产品开发方法不仅效率低下，而且可能会造成过时的产品，无法满足客户需求和利用最新技术。当新的竞争对手和技术可能在一夜之间出现时，当标准和法规处于不稳定状态时，当公司的整个客户群可以轻易转向其他供应商时，企业不需要一个抵制变化的开发过程，而是需要一个拥抱变化的开发过程。
 
 <br>
 
@@ -301,3 +301,7 @@ We have seen a similar pattern throughout many environments we have studied. Org
 > 我們在研究的許多環境中都看到了類似的模式。採用靈活產品開發流程的組織已經開始改變迫使它們採用該流程的行業。他們實施了堅持傳統方法的公司無法遵循的策略。沒有靈活開發流程的競爭對手將很可能發現他們的行業變得越來越動蕩。在這樣的環境中，他們的產品和服務似乎總是落後於更靈活的競爭對手一步。
 
 <br>
+
+# Disclaimer
+
+> The information provided in this document is for reference only and does not constitute any investment advice. The author makes no express or implied statements or warranties as to the accuracy, completeness, timeliness, commercial applicability, or suitability for a particular purpose of this document. The author shall not be liable for any loss or damage caused by the use of the information provided in this document. In no event shall the author be liable for any special, indirect, incidental, punitive, or consequential damages arising from the use of the information provided in this document.
